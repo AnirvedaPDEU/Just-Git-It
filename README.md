@@ -2,3 +2,5 @@
 Let's learn Git
 
 Git is amazing and easy!!
+
+This line will cause merge conflict
